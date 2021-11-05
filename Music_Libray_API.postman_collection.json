@@ -139,6 +139,15 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "Like_Song_With_PK",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
 		}
 	]
 }
